@@ -1,0 +1,4 @@
+Horizon,SelectedModel,BestCV_RMSE,BestParameters,NumericFeatureCount,CategoricalFeatureCount
+1,Ridge,2.1370741590139852,"{""model__alpha"": 10.0}",13,3
+3,Extra Trees,2.4197463560854127,"{""model__max_depth"": null, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 150}",18,3
+5,Extra Trees,2.462552486234209,"{""model__max_depth"": null, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 150}",15,3

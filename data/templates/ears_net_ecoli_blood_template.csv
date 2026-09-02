@@ -1,0 +1,2 @@
+region,country,iso3,year,pathogen,specimen,antibiotic,resistant,tested,ast_standard,ast_version,test_method,source_url
+EU_EEA,Exampleland,EXA,2020,Escherichia coli,Blood,Example antibiotic,10,100,EUCAST,10.0,Reported aggregate,https://example.invalid

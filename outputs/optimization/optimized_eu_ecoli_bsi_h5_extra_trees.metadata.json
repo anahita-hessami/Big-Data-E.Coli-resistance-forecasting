@@ -1,0 +1,141 @@
+{
+  "breakpoint_policy": "EU/EEA native EARS-Net aggregates; EUCAST-required from 2020; not pooled directly with CLSI/FDA aggregates.",
+  "categorical_features": [
+    "antibiotic",
+    "country",
+    "antibiotic_family"
+  ],
+  "code_tree_sha256": "6d3a7f29a5f9eb5de6d6f18049be9a29ab533dafa0cd1f3869a1f9d7f7255713",
+  "confirmation_performance": [
+    {
+      "Horizon": 5,
+      "MAE": 2.417882426886917,
+      "Model": "Persistence",
+      "R2": 0.9677955663893332,
+      "RMSE": 3.4716432835066398,
+      "Specification": "Persistence",
+      "Split": "Latest-year confirmation",
+      "WeightedRMSE": 2.9887962560856662
+    },
+    {
+      "Horizon": 5,
+      "MAE": 1.3266661941622846,
+      "Model": "Extra trees",
+      "R2": 0.9895564732571248,
+      "RMSE": 1.976973524190424,
+      "Specification": "Optimized features",
+      "Split": "Latest-year confirmation",
+      "WeightedRMSE": 1.31799471935096
+    }
+  ],
+  "created_utc": "2026-09-02T01:10:40.434747+00:00",
+  "environment": {
+    "joblib": "1.5.3",
+    "matplotlib": "3.10.8",
+    "numpy": "2.3.5",
+    "openpyxl": "3.1.5",
+    "pandas": "2.2.3",
+    "plotly": null,
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.0",
+    "seaborn": "0.13.2"
+  },
+  "git_commit": null,
+  "horizon_years": 5,
+  "input_files": [
+    {
+      "columns": [
+        "antibiotic",
+        "antibiotic_family"
+      ],
+      "path": "data/input/antibiotic_mapping.csv",
+      "rows": 5,
+      "sha256": "10f14911a32d1fe5c8d82da8a05ff1d375e9f4030fc93629daf1abaf76d1d71b"
+    },
+    {
+      "columns": [
+        "country",
+        "iso3",
+        "year",
+        "population",
+        "age65_pct",
+        "urban_pct",
+        "gdp_per_capita",
+        "health_expenditure_pct_gdp",
+        "source_url"
+      ],
+      "path": "data/input/demographics.csv",
+      "rows": 750,
+      "sha256": "6015437f193a41869cb8b85b2f2a7d18bd01bb448d32234cfef42956416a80b1"
+    },
+    {
+      "columns": [
+        "region",
+        "country",
+        "iso3",
+        "year",
+        "pathogen",
+        "specimen",
+        "antibiotic",
+        "resistant",
+        "tested",
+        "ast_standard",
+        "ast_version",
+        "test_method",
+        "source_url"
+      ],
+      "path": "data/input/ears_net_ecoli_blood.csv",
+      "rows": 3192,
+      "sha256": "72aff6ba543203cb9cc5d2eb5481fab0ec9f8ad6110553550d4f556864b1e3c8"
+    },
+    {
+      "columns": [
+        "country",
+        "iso3",
+        "year",
+        "sector",
+        "antibiotic_family",
+        "ddd_per_1000_per_day",
+        "access_pct",
+        "broad_narrow_ratio",
+        "oral_parenteral_ratio",
+        "reserve_pct",
+        "source_url"
+      ],
+      "path": "data/input/esac_net_consumption.csv",
+      "rows": 1770,
+      "sha256": "0d13ae92367c54bc3f1d6d04572b8d24b6001f9ae7f14feda1ec79cda3543347"
+    }
+  ],
+  "intended_use": "Country-level EU/EEA bloodstream/invasive E. coli AMR research forecasting; not patient-level treatment guidance.",
+  "limitations": [
+    "The latest historical period is confirmation, not external prospective validation.",
+    "Country-level ecological predictions cannot guide individual treatment.",
+    "Performance must be compared with persistence at every horizon."
+  ],
+  "model_file": "outputs/optimization/optimized_eu_ecoli_bsi_h5_extra_trees.joblib",
+  "model_sha256": "45d41c58bb176b8641e481c411147761df9d0e092446f92929989330346900e0",
+  "numeric_features": [
+    "resistance_pct",
+    "resistance_lag1",
+    "resistance_lag2",
+    "resistance_lag3",
+    "resistance_trend4",
+    "resistance_volatility4",
+    "log_tested",
+    "family_consumption_lag1",
+    "family_consumption_lag2",
+    "family_consumption_lag3",
+    "ast_tested_per_100k",
+    "reported_resistant_per_100k",
+    "tested_growth1",
+    "testing_volatility4",
+    "origin_year_index"
+  ],
+  "outcome_unit": "percentage resistant among tested isolates",
+  "random_seed": 42,
+  "schema_version": "1.0",
+  "source_manifest_sha256": "e8d968039c9f950f96b27c0285e0bacae35f8bddaa113b1469699ad972eb9236",
+  "specimen_scope": "bloodstream/invasive isolates",
+  "target": "target_resistance_h5"
+}

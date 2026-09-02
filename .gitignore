@@ -1,0 +1,36 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter and notebook tooling
+.ipynb_checkpoints/
+.jupyter/
+
+# Test, coverage, and type-checking caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+~$*
+
+# Trained model binaries — large and fully regenerable offline from data/input/*.csv.
+# Recreate them with:
+#   python -m src.run_official_pipeline
+#   python -m src.run_iterative_optimization
+#   (then run the Complete_ML notebook, which trains and saves outputs/notebook_ml/*.joblib)
+*.joblib

@@ -1,0 +1,9 @@
+Required filenames:
+
+1. ears_net_ecoli_blood.csv
+2. esac_net_consumption.csv
+3. demographics.csv
+4. antibiotic_mapping.csv
+
+Use the column names shown in data/templates. Replace the example rows; never
+include an example or synthetic row in the scientific analysis.

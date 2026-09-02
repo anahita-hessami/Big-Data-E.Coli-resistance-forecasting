@@ -1,0 +1,140 @@
+region,country,iso3,year,target_year,antibiotic,ast_standard,ast_version,resistance_pct,target_resistance_h3,target_tested_h3,prediction,persistence_prediction,horizon
+EU_EEA,Austria,AUT,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,6.246407357731366,5.3560042507970245,4705.0,6.159924391863209,6.246407357731366,3
+EU_EEA,Austria,AUT,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,45.998332638599415,46.42784032753327,4885.0,42.95756157987521,45.998332638599415,3
+EU_EEA,Austria,AUT,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.09725734292939117,0.1308166697813493,5351.0,0.0,0.09725734292939117,3
+EU_EEA,Austria,AUT,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,17.345989205285687,15.030504714364948,5409.0,15.492382731975923,17.345989205285687,3
+EU_EEA,Austria,AUT,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,9.468005952380953,9.852485885995264,5491.0,8.649288218262356,9.468005952380953,3
+EU_EEA,Belgium,BEL,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,7.467532467532467,7.576132706115375,4039.0,6.783907822481876,7.467532467532467,3
+EU_EEA,Belgium,BEL,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,56.49787977051634,55.658347676419965,4648.0,55.44704752478699,56.49787977051634,3
+EU_EEA,Belgium,BEL,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.024236548715462918,0.08067769261799113,4958.0,0.20366671983145593,0.024236548715462918,3
+EU_EEA,Belgium,BEL,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,18.078703703703702,18.236836796449467,4957.0,17.543247029127606,18.078703703703702,3
+EU_EEA,Belgium,BEL,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,9.88425925925926,10.088781275221953,4956.0,9.494672239967638,9.88425925925926,3
+EU_EEA,Bulgaria,BGR,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,34.24657534246575,28.431372549019606,306.0,27.912981550188082,34.24657534246575,3
+EU_EEA,Bulgaria,BGR,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,66.66666666666667,66.99346405228758,306.0,63.81109967084511,66.66666666666667,3
+EU_EEA,Bulgaria,BGR,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.7662835249042146,0.32679738562091504,306.0,2.2190403853846643,0.7662835249042146,3
+EU_EEA,Bulgaria,BGR,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,42.911877394636015,39.869281045751634,306.0,41.609129526993755,42.911877394636015,3
+EU_EEA,Bulgaria,BGR,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,41.37931034482759,37.254901960784316,306.0,40.61045811543554,41.37931034482759,3
+EU_EEA,Cyprus,CYP,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,21.05263157894737,18.484848484848484,330.0,19.93704749255165,21.05263157894737,3
+EU_EEA,Cyprus,CYP,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,67.54385964912281,68.90243902439025,328.0,66.37775117036415,67.54385964912281,3
+EU_EEA,Cyprus,CYP,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.9063444108761329,331.0,1.6416482894429798,0.0,3
+EU_EEA,Cyprus,CYP,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,48.24561403508772,42.90030211480362,331.0,45.89811357729996,48.24561403508772,3
+EU_EEA,Cyprus,CYP,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,29.82456140350877,34.74320241691843,331.0,26.662064486363352,29.82456140350877,3
+EU_EEA,Czechia,CZE,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,10.170056685561853,9.763617677286742,3892.0,9.464634360191702,10.170056685561853,3
+EU_EEA,Czechia,CZE,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,52.652652652652655,51.56731757451182,3892.0,51.77180250310903,52.652652652652655,3
+EU_EEA,Czechia,CZE,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.13333333333333333,0.0,1846.0,0.0,0.13333333333333333,3
+EU_EEA,Czechia,CZE,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,20.186853520186855,17.17665209565441,3889.0,20.03998065329121,20.186853520186855,3
+EU_EEA,Czechia,CZE,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,13.279946613279947,15.878725590955806,3892.0,13.51792900555326,13.279946613279947,3
+EU_EEA,Germany,DEU,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,7.50258074030379,5.346322917904241,33668.0,6.491564558512268,7.50258074030379,3
+EU_EEA,Germany,DEU,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,47.58210224253374,46.33612513496951,34267.0,43.5919998249819,47.58210224253374,3
+EU_EEA,Germany,DEU,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.01756975191510296,0.044914802234511414,35623.0,0.019444773705603446,0.01756975191510296,3
+EU_EEA,Germany,DEU,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,16.536595654925122,16.589278176445756,35535.0,14.575239276037724,16.536595654925122,3
+EU_EEA,Germany,DEU,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,10.358033800639472,9.688649316376091,35619.0,10.587580120854101,10.358033800639472,3
+EU_EEA,Denmark,DNK,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,5.5366269165247015,4.48706970371639,5839.0,5.287212525827992,5.5366269165247015,3
+EU_EEA,Denmark,DNK,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,44.065484311050476,40.455250905328505,5799.0,42.20599581254911,44.065484311050476,3
+EU_EEA,Denmark,DNK,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.1541095890410959,0.03683241252302026,5430.0,0.0,0.1541095890410959,3
+EU_EEA,Denmark,DNK,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,11.226575809199318,10.466712422786548,5828.0,11.526116582695378,11.226575809199318,3
+EU_EEA,Denmark,DNK,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,6.696935300794552,6.316388467374811,5272.0,6.412921354277782,6.696935300794552,3
+EU_EEA,Spain,ESP,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,13.61604291735854,12.300967842647518,9609.0,12.505059056123523,13.61604291735854,3
+EU_EEA,Spain,ESP,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,57.62406431937899,57.420675537359266,8793.0,54.53292922225403,57.62406431937899,3
+EU_EEA,Spain,ESP,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.36952089704383284,0.054507794614629894,9173.0,0.8588873415423591,0.36952089704383284,3
+EU_EEA,Spain,ESP,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,28.606231568149763,27.555370697722783,9617.0,27.88741700199469,28.606231568149763,3
+EU_EEA,Spain,ESP,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,14.075413223140496,16.215341460783257,9269.0,13.164863555171776,14.075413223140496,3
+EU_EEA,Estonia,EST,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,5.475206611570248,4.934823091247672,1074.0,5.028137729946644,5.475206611570248,3
+EU_EEA,Estonia,EST,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,45.7345971563981,38.07692307692308,520.0,38.94544362930596,45.7345971563981,3
+EU_EEA,Estonia,EST,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.0,894.0,0.0,0.0,3
+EU_EEA,Estonia,EST,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,14.077163712200209,13.282732447817837,1054.0,14.384947089070378,14.077163712200209,3
+EU_EEA,Estonia,EST,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,8.273748723186925,11.439114391143912,1084.0,8.945292022688168,8.273748723186925,3
+EU_EEA,Finland,FIN,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,5.713753954959985,4.833765621315727,4241.0,5.256701834484027,5.713753954959985,3
+EU_EEA,Finland,FIN,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,34.118852459016395,32.549019607843135,2550.0,32.23068092827655,34.118852459016395,3
+EU_EEA,Finland,FIN,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.018604651162790697,0.023430178069353328,4268.0,0.0,0.018604651162790697,3
+EU_EEA,Finland,FIN,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,10.534180052297348,10.302745834311194,4261.0,10.287530687655524,10.534180052297348,3
+EU_EEA,Finland,FIN,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,7.173467486491522,7.0858751759737215,4262.0,6.692520578771708,7.173467486491522,3
+EU_EEA,Greece,GRC,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,18.683274021352315,20.62363238512035,1828.0,17.453313062441005,18.683274021352315,3
+EU_EEA,Greece,GRC,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,55.530973451327434,57.82140595313489,1579.0,55.53011086028603,55.530973451327434,3
+EU_EEA,Greece,GRC,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.5300353356890459,1.5532940546331013,1867.0,0.5215452812167566,0.5300353356890459,3
+EU_EEA,Greece,GRC,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,32.743362831858406,37.775389575497044,1861.0,30.820442986162366,32.743362831858406,3
+EU_EEA,Greece,GRC,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,21.869488536155202,22.82921219091432,1739.0,20.51021287555001,21.869488536155202,3
+EU_EEA,Croatia,HRV,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,14.855072463768115,17.755572636433513,1301.0,14.794595426872757,14.855072463768115,3
+EU_EEA,Croatia,HRV,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,57.67835550181378,57.19844357976654,1285.0,55.87407786663987,57.67835550181378,3
+EU_EEA,Croatia,HRV,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.15360983102918588,1302.0,0.503769095063212,0.0,3
+EU_EEA,Croatia,HRV,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,29.661016949152543,29.638183217859893,1299.0,27.939657162233445,29.661016949152543,3
+EU_EEA,Croatia,HRV,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,16.56590084643289,20.0,1310.0,17.139270904324448,16.56590084643289,3
+EU_EEA,Hungary,HUN,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,16.68372569089048,14.778503994190269,2754.0,17.621575912470146,16.68372569089048,3
+EU_EEA,Hungary,HUN,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,58.5920177383592,57.364033346566096,2519.0,54.45538838158417,58.5920177383592,3
+EU_EEA,Hungary,HUN,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.22321428571428573,2688.0,0.551010520353955,0.0,3
+EU_EEA,Hungary,HUN,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,30.337078651685392,25.988286969253295,2732.0,29.920706250799686,30.337078651685392,3
+EU_EEA,Hungary,HUN,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,20.132517838939858,21.335268505079824,2756.0,20.906033178796356,20.132517838939858,3
+EU_EEA,Ireland,IRL,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,10.635310635310635,8.743169398907105,3111.0,10.47233939918815,10.635310635310635,3
+EU_EEA,Ireland,IRL,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,65.01231960577262,62.985553772070624,3115.0,64.23777684498415,65.01231960577262,3
+EU_EEA,Ireland,IRL,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.07092198581560284,0.06516780710329098,3069.0,0.0,0.07092198581560284,3
+EU_EEA,Ireland,IRL,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,18.88185654008439,15.96995427824951,3062.0,17.53589542862403,18.88185654008439,3
+EU_EEA,Ireland,IRL,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,11.824561403508772,10.423348300192432,3118.0,11.133271219050844,11.824561403508772,3
+EU_EEA,Iceland,ISL,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,7.755102040816326,5.426356589147287,258.0,8.258328121127173,7.755102040816326,3
+EU_EEA,Iceland,ISL,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,55.10204081632653,52.713178294573645,258.0,56.410017374108115,55.10204081632653,3
+EU_EEA,Iceland,ISL,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.0,258.0,0.2971753415343742,0.0,3
+EU_EEA,Iceland,ISL,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,11.83673469387755,12.790697674418604,258.0,13.933975951457484,11.83673469387755,3
+EU_EEA,Iceland,ISL,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,11.020408163265307,12.015503875968992,258.0,12.791124417083829,11.020408163265307,3
+EU_EEA,Italy,ITA,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,14.943870178948538,16.01035182206057,28594.0,13.779795744268945,14.943870178948538,3
+EU_EEA,Italy,ITA,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,64.546748932131,63.221986370237964,8951.0,63.490616635115565,64.546748932131,3
+EU_EEA,Italy,ITA,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.472195989111716,0.43080041993990514,27623.0,0.0,0.472195989111716,3
+EU_EEA,Italy,ITA,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,37.59023354564756,34.14425034830136,27993.0,33.64790635914522,37.59023354564756,3
+EU_EEA,Italy,ITA,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,26.410666666666668,26.676471618167174,28557.0,23.573460814536286,26.410666666666668,3
+EU_EEA,Lithuania,LTU,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,10.254163014899211,11.337406653088934,1473.0,9.223419180021505,10.254163014899211,3
+EU_EEA,Lithuania,LTU,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,56.94200351493849,61.34055517941774,1477.0,53.877579465503345,56.94200351493849,3
+EU_EEA,Lithuania,LTU,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.06765899864682003,1478.0,0.0,0.0,3
+EU_EEA,Lithuania,LTU,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,18.75,20.54982817869416,1455.0,18.133934091864262,18.75,3
+EU_EEA,Lithuania,LTU,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,15.936952714535902,16.95945945945946,1480.0,14.419242607849586,15.936952714535902,3
+EU_EEA,Luxembourg,LUX,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,8.878504672897197,9.97830802603037,461.0,9.24076636407462,8.878504672897197,3
+EU_EEA,Luxembourg,LUX,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,52.459016393442624,51.62689804772234,461.0,52.9583003893399,52.459016393442624,3
+EU_EEA,Luxembourg,LUX,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.21691973969631237,461.0,0.01592802469784606,0.0,3
+EU_EEA,Luxembourg,LUX,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,21.72897196261682,15.61822125813449,461.0,18.68857839498372,21.72897196261682,3
+EU_EEA,Luxembourg,LUX,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,11.448598130841122,11.713665943600867,461.0,11.67389755322518,11.448598130841122,3
+EU_EEA,Latvia,LVA,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,11.405835543766578,14.879649890590809,457.0,11.320491917763158,11.405835543766578,3
+EU_EEA,Latvia,LVA,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,54.27807486631016,50.0,208.0,53.276421134562604,54.27807486631016,3
+EU_EEA,Latvia,LVA,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.0,455.0,0.0,0.0,3
+EU_EEA,Latvia,LVA,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,27.513227513227513,28.35164835164835,455.0,23.241213931207525,27.513227513227513,3
+EU_EEA,Latvia,LVA,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,24.074074074074073,25.379609544468547,461.0,20.07847514928378,24.074074074074073,3
+EU_EEA,Malta,MLT,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,12.635379061371841,10.336538461538462,416.0,11.44506406819324,12.635379061371841,3
+EU_EEA,Malta,MLT,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,58.48375451263538,62.5,416.0,57.02706368637935,58.48375451263538,3
+EU_EEA,Malta,MLT,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.0,416.0,0.0,0.0,3
+EU_EEA,Malta,MLT,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,35.37906137184115,27.884615384615383,416.0,30.7045813550902,35.37906137184115,3
+EU_EEA,Malta,MLT,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,12.274368231046932,11.298076923076923,416.0,14.81139682239955,12.274368231046932,3
+EU_EEA,Netherlands,NLD,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,6.417611741160774,5.190664456064278,7841.0,6.51724781456847,6.417611741160774,3
+EU_EEA,Netherlands,NLD,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,42.67413931144916,40.98800102118969,7834.0,42.46960145454632,42.67413931144916,3
+EU_EEA,Netherlands,NLD,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.040069453719780955,0.08997429305912596,7780.0,0.3485533980199589,0.040069453719780955,3
+EU_EEA,Netherlands,NLD,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,13.337783711615486,12.946428571428571,7840.0,12.735871687210153,13.337783711615486,3
+EU_EEA,Netherlands,NLD,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,6.645316253002402,7.971938775510204,7840.0,7.019002387528536,6.645316253002402,3
+EU_EEA,Norway,NOR,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,5.660377358490566,5.523474767762993,3983.0,5.83642676915114,5.660377358490566,3
+EU_EEA,Norway,NOR,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,39.78179882916445,36.85664072307306,3983.0,37.358910088496565,39.78179882916445,3
+EU_EEA,Norway,NOR,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.027427317608337904,0.050200803212851405,3984.0,0.0,0.027427317608337904,3
+EU_EEA,Norway,NOR,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,9.959839357429718,10.123394610929237,3971.0,11.279838376405436,9.959839357429718,3
+EU_EEA,Norway,NOR,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,5.7947900053163215,5.622489959839357,3984.0,5.7944404368985225,5.7947900053163215,3
+EU_EEA,Poland,POL,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,14.510575504181013,14.136690647482014,2780.0,14.463202865130915,14.510575504181013,3
+EU_EEA,Poland,POL,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,56.17529880478088,65.5857740585774,956.0,56.819008128562125,56.17529880478088,3
+EU_EEA,Poland,POL,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.04807692307692308,0.20229265003371544,2966.0,0.41447050572244243,0.04807692307692308,3
+EU_EEA,Poland,POL,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,32.99208934388088,32.203947368421055,3040.0,32.08408781200138,32.99208934388088,3
+EU_EEA,Poland,POL,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,17.449355432780848,19.563090968373004,3067.0,17.161769247645662,17.449355432780848,3
+EU_EEA,Portugal,PRT,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,11.679336558396683,13.173091930700796,6407.0,10.550636488978581,11.679336558396683,3
+EU_EEA,Portugal,PRT,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,54.35117114036588,54.36434239405707,5923.0,54.26414899801362,54.35117114036588,3
+EU_EEA,Portugal,PRT,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.15429453111606378,0.5337214944201844,6183.0,0.0,0.15429453111606378,3
+EU_EEA,Portugal,PRT,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,23.934987168520102,24.331926863572434,6399.0,21.101394273761755,23.934987168520102,3
+EU_EEA,Portugal,PRT,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,14.44847229414811,17.195064813368734,6403.0,13.81837639588875,14.44847229414811,3
+EU_EEA,Romania,ROU,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,10.899182561307901,12.716763005780347,865.0,10.856963879532834,10.899182561307901,3
+EU_EEA,Romania,ROU,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,62.65822784810127,61.71052631578947,760.0,61.4033376760114,62.65822784810127,3
+EU_EEA,Romania,ROU,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.6607929515418502,1.8274111675126903,985.0,0.0,0.6607929515418502,3
+EU_EEA,Romania,ROU,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,26.0,25.408163265306122,980.0,24.194901101655354,26.0,3
+EU_EEA,Romania,ROU,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,19.690265486725664,19.09090909090909,990.0,18.88145001956407,19.690265486725664,3
+EU_EEA,Slovakia,SVK,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,18.467852257181942,13.81294964028777,695.0,16.1087611427361,18.467852257181942,3
+EU_EEA,Slovakia,SVK,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,57.142857142857146,58.47953216374269,684.0,54.32545166757111,57.142857142857146,3
+EU_EEA,Slovakia,SVK,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.14184397163120568,0.14367816091954022,696.0,0.0,0.14184397163120568,3
+EU_EEA,Slovakia,SVK,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,34.15637860082305,31.16883116883117,693.0,29.010390919660825,34.15637860082305,3
+EU_EEA,Slovakia,SVK,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,27.097661623108667,21.551724137931036,696.0,21.038838641088297,27.097661623108667,3
+EU_EEA,Slovenia,SVN,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,6.806930693069307,6.955460646735815,1639.0,7.660051220113629,6.806930693069307,3
+EU_EEA,Slovenia,SVN,2020,2023,Aminopenicillins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,51.26777983920841,48.993288590604024,1639.0,49.24889300071663,51.26777983920841,3
+EU_EEA,Slovenia,SVN,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.0,0.06101281269066504,1639.0,0.0,0.0,3
+EU_EEA,Slovenia,SVN,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,18.119975262832405,15.924344112263576,1639.0,17.129311667982716,18.119975262832405,3
+EU_EEA,Slovenia,SVN,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,10.575139146567718,8.663819402074436,1639.0,10.759495110061993,10.575139146567718,3
+EU_EEA,Sweden,SWE,2020,2023,Aminoglycosides,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,5.884146341463414,6.160164271047228,10714.0,5.977444877145584,5.884146341463414,3
+EU_EEA,Sweden,SWE,2020,2023,Carbapenems,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,0.010156408693885842,0.037334328915437746,10714.0,0.0,0.010156408693885842,3
+EU_EEA,Sweden,SWE,2020,2023,Fluoroquinolones,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,14.084507042253522,14.746112047967022,10674.0,14.321182153011579,14.084507042253522,3
+EU_EEA,Sweden,SWE,2020,2023,Third-generation cephalosporins,EUCAST,EUCAST required; exact version unavailable in Atlas aggregate,7.866423061307349,7.925407925407925,10725.0,7.704551869695676,7.866423061307349,3

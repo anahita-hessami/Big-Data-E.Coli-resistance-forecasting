@@ -1,0 +1,140 @@
+region,country,iso3,year,target_year,antibiotic,ast_standard,ast_version,resistance_pct,target_resistance_h5,target_tested_h5,prediction,persistence_prediction,horizon
+EU_EEA,Austria,AUT,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,8.226495726495726,5.3560042507970245,4705.0,7.092354598762764,8.226495726495726,5
+EU_EEA,Austria,AUT,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,50.65982404692082,46.42784032753327,4885.0,43.208967184755984,50.65982404692082,5
+EU_EEA,Austria,AUT,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.07189072609633357,0.1308166697813493,5351.0,0.21319953395445518,0.07189072609633357,5
+EU_EEA,Austria,AUT,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,21.852438809649588,15.030504714364948,5409.0,16.693490576062437,21.852438809649588,5
+EU_EEA,Austria,AUT,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,10.208039492242595,9.852485885995264,5491.0,8.974747855435783,10.208039492242595,5
+EU_EEA,Belgium,BEL,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,7.404500261643118,7.576132706115375,4039.0,6.158421796648742,7.404500261643118,5
+EU_EEA,Belgium,BEL,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,55.79302587176603,55.658347676419965,4648.0,53.07615590804758,55.79302587176603,5
+EU_EEA,Belgium,BEL,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.06464124111182935,0.08067769261799113,4958.0,0.0,0.06464124111182935,5
+EU_EEA,Belgium,BEL,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,21.80004749465685,18.236836796449467,4957.0,17.935123398617673,21.80004749465685,5
+EU_EEA,Belgium,BEL,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,9.022394487510766,10.088781275221953,4956.0,8.769457858042975,9.022394487510766,5
+EU_EEA,Bulgaria,BGR,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,28.363636363636363,28.431372549019606,306.0,28.06757225424166,28.363636363636363,5
+EU_EEA,Bulgaria,BGR,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,66.55052264808363,66.99346405228758,306.0,64.89011845830562,66.55052264808363,5
+EU_EEA,Bulgaria,BGR,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,1.36986301369863,0.32679738562091504,306.0,1.878253741854952,1.36986301369863,5
+EU_EEA,Bulgaria,BGR,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,41.78082191780822,39.869281045751634,306.0,38.28569423019026,41.78082191780822,5
+EU_EEA,Bulgaria,BGR,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,38.6986301369863,37.254901960784316,306.0,38.275762083236685,38.6986301369863,5
+EU_EEA,Cyprus,CYP,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,19.867549668874172,18.484848484848484,330.0,18.232216016506058,19.867549668874172,5
+EU_EEA,Cyprus,CYP,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,64.90066225165563,68.90243902439025,328.0,63.939998078656025,64.90066225165563,5
+EU_EEA,Cyprus,CYP,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,2.0,0.9063444108761329,331.0,1.6854262026222675,2.0,5
+EU_EEA,Cyprus,CYP,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,42.384105960264904,42.90030211480362,331.0,46.411587120691486,42.384105960264904,5
+EU_EEA,Cyprus,CYP,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,37.086092715231786,34.74320241691843,331.0,35.903398088334825,37.086092715231786,5
+EU_EEA,Czechia,CZE,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,9.470216854241011,9.763617677286742,3892.0,9.21282861757553,9.470216854241011,5
+EU_EEA,Czechia,CZE,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,54.2032967032967,51.56731757451182,3892.0,54.23703307699316,54.2032967032967,5
+EU_EEA,Czechia,CZE,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.05707762557077625,0.0,1846.0,0.0115637980609029,0.05707762557077625,5
+EU_EEA,Czechia,CZE,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,24.271577789994502,17.17665209565441,3889.0,21.215099759458088,24.271577789994502,5
+EU_EEA,Czechia,CZE,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,15.21560010985993,15.878725590955806,3892.0,13.899070700469007,15.21560010985993,5
+EU_EEA,Germany,DEU,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,6.87806230932791,5.346322917904241,33668.0,5.6330526210861676,6.87806230932791,5
+EU_EEA,Germany,DEU,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,49.22988340290773,46.33612513496951,34267.0,43.053767670916216,49.22988340290773,5
+EU_EEA,Germany,DEU,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.01821742496698092,0.044914802234511414,35623.0,0.299053860376583,0.01821742496698092,5
+EU_EEA,Germany,DEU,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,19.828764004007652,16.589278176445756,35535.0,16.4672887960078,19.828764004007652,5
+EU_EEA,Germany,DEU,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,12.197007594706443,9.688649316376091,35619.0,11.520492781466954,12.197007594706443,5
+EU_EEA,Denmark,DNK,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,5.7481921008715,4.48706970371639,5839.0,5.3921302587800595,5.7481921008715,5
+EU_EEA,Denmark,DNK,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,45.95950213635519,40.455250905328505,5799.0,41.45466226455837,45.95950213635519,5
+EU_EEA,Denmark,DNK,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.03683241252302026,5430.0,0.0,0.0,5
+EU_EEA,Denmark,DNK,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,13.256591162272558,10.466712422786548,5828.0,11.70198280471105,13.256591162272558,5
+EU_EEA,Denmark,DNK,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,7.6557003931305605,6.316388467374811,5272.0,7.24906572045437,7.6557003931305605,5
+EU_EEA,Spain,ESP,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,14.12165572942958,12.300967842647518,9609.0,12.441892689333159,14.12165572942958,5
+EU_EEA,Spain,ESP,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,62.92933280694828,57.420675537359266,8793.0,55.932724233826534,62.92933280694828,5
+EU_EEA,Spain,ESP,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.03785966683493185,0.054507794614629894,9173.0,0.21773574080146563,0.03785966683493185,5
+EU_EEA,Spain,ESP,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,32.11659663865546,27.555370697722783,9617.0,26.8532154081731,32.11659663865546,5
+EU_EEA,Spain,ESP,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,13.757415120535152,16.215341460783257,9269.0,14.315760221349588,13.757415120535152,5
+EU_EEA,Estonia,EST,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,6.24263839811543,4.934823091247672,1074.0,7.307924088985675,6.24263839811543,5
+EU_EEA,Estonia,EST,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,43.544857768052516,38.07692307692308,520.0,42.66082052107878,43.544857768052516,5
+EU_EEA,Estonia,EST,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.0,894.0,0.0,0.0,5
+EU_EEA,Estonia,EST,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,17.61158021712907,13.282732447817837,1054.0,17.204279356057807,17.61158021712907,5
+EU_EEA,Estonia,EST,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,9.764705882352942,11.439114391143912,1084.0,9.839846494826988,9.764705882352942,5
+EU_EEA,Finland,FIN,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,4.257528556593977,4.833765621315727,4241.0,4.837319485976789,4.257528556593977,5
+EU_EEA,Finland,FIN,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,35.34675615212528,32.549019607843135,2550.0,31.708580484788197,35.34675615212528,5
+EU_EEA,Finland,FIN,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.019774569903104607,0.023430178069353328,4268.0,0.0,0.019774569903104607,5
+EU_EEA,Finland,FIN,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,11.481261154074955,10.302745834311194,4261.0,9.326737893999354,11.481261154074955,5
+EU_EEA,Finland,FIN,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,7.609561752988048,7.0858751759737215,4262.0,7.057598876620435,7.609561752988048,5
+EU_EEA,Greece,GRC,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,15.492957746478874,20.62363238512035,1828.0,16.028759830203086,15.492957746478874,5
+EU_EEA,Greece,GRC,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,57.54847645429363,57.82140595313489,1579.0,56.757877904207,57.54847645429363,5
+EU_EEA,Greece,GRC,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,1.0365853658536586,1.5532940546331013,1867.0,1.4234245999036153,1.0365853658536586,5
+EU_EEA,Greece,GRC,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,30.778663396689147,37.775389575497044,1861.0,31.40444424530434,30.778663396689147,5
+EU_EEA,Greece,GRC,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,19.329268292682926,22.82921219091432,1739.0,20.649174087622153,19.329268292682926,5
+EU_EEA,Croatia,HRV,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,14.87603305785124,17.755572636433513,1301.0,14.79603126235648,14.87603305785124,5
+EU_EEA,Croatia,HRV,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,57.74299835255354,57.19844357976654,1285.0,55.9689334577654,57.74299835255354,5
+EU_EEA,Croatia,HRV,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.15360983102918588,1302.0,0.0,0.0,5
+EU_EEA,Croatia,HRV,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,30.025020850708923,29.638183217859893,1299.0,28.370390251704162,30.025020850708923,5
+EU_EEA,Croatia,HRV,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,14.811643835616438,20.0,1310.0,16.179335212446002,14.811643835616438,5
+EU_EEA,Hungary,HUN,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,17.402826855123674,14.778503994190269,2754.0,16.716098921983175,17.402826855123674,5
+EU_EEA,Hungary,HUN,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,62.71626297577855,57.364033346566096,2519.0,56.85145053056616,62.71626297577855,5
+EU_EEA,Hungary,HUN,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.22321428571428573,2688.0,0.0,0.0,5
+EU_EEA,Hungary,HUN,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,33.24873096446701,25.988286969253295,2732.0,30.431562569947147,33.24873096446701,5
+EU_EEA,Hungary,HUN,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,22.616033755274263,21.335268505079824,2756.0,19.626149557116186,22.616033755274263,5
+EU_EEA,Ireland,IRL,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,11.735639283508338,8.743169398907105,3111.0,9.595798167063599,11.735639283508338,5
+EU_EEA,Ireland,IRL,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,67.62434352795799,62.985553772070624,3115.0,61.089460706651764,67.62434352795799,5
+EU_EEA,Ireland,IRL,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.06516780710329098,3069.0,0.0,0.0,5
+EU_EEA,Ireland,IRL,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,23.903644224830142,15.96995427824951,3062.0,16.994085223361736,23.903644224830142,5
+EU_EEA,Ireland,IRL,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,12.882298424467098,10.423348300192432,3118.0,11.222274035727011,12.882298424467098,5
+EU_EEA,Iceland,ISL,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,6.091370558375634,5.426356589147287,258.0,6.950846443132199,6.091370558375634,5
+EU_EEA,Iceland,ISL,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,48.98989898989899,52.713178294573645,258.0,46.01906746719403,48.98989898989899,5
+EU_EEA,Iceland,ISL,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.0,258.0,0.45143709687697386,0.0,5
+EU_EEA,Iceland,ISL,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,17.1875,12.790697674418604,258.0,12.664899226985424,17.1875,5
+EU_EEA,Iceland,ISL,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,8.080808080808081,12.015503875968992,258.0,7.535844740651357,8.080808080808081,5
+EU_EEA,Italy,ITA,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,16.043016162505502,16.01035182206057,28594.0,14.135163132105886,16.043016162505502,5
+EU_EEA,Italy,ITA,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,64.4763042612505,63.221986370237964,8951.0,59.711638438903215,64.4763042612505,5
+EU_EEA,Italy,ITA,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.36888428682371216,0.43080041993990514,27623.0,0.0,0.36888428682371216,5
+EU_EEA,Italy,ITA,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,41.663030605248395,34.14425034830136,27993.0,38.93428209442673,41.663030605248395,5
+EU_EEA,Italy,ITA,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,28.696240694025718,26.676471618167174,28557.0,24.530244005064244,28.696240694025718,5
+EU_EEA,Lithuania,LTU,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,7.887579329102448,11.337406653088934,1473.0,7.787308725748791,7.887579329102448,5
+EU_EEA,Lithuania,LTU,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,58.95117540687161,61.34055517941774,1477.0,55.97511631789551,58.95117540687161,5
+EU_EEA,Lithuania,LTU,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.06765899864682003,1478.0,0.0,0.0,5
+EU_EEA,Lithuania,LTU,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,19.655797101449274,20.54982817869416,1455.0,17.472430386311853,19.655797101449274,5
+EU_EEA,Lithuania,LTU,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,15.32912533814247,16.95945945945946,1480.0,14.01279978262908,15.32912533814247,5
+EU_EEA,Luxembourg,LUX,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,7.328605200945627,9.97830802603037,461.0,6.875321900442235,7.328605200945627,5
+EU_EEA,Luxembourg,LUX,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,55.23809523809524,51.62689804772234,461.0,53.36815390331378,55.23809523809524,5
+EU_EEA,Luxembourg,LUX,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.21691973969631237,461.0,0.0,0.0,5
+EU_EEA,Luxembourg,LUX,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,21.770334928229666,15.61822125813449,461.0,20.28660331796328,21.770334928229666,5
+EU_EEA,Luxembourg,LUX,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,12.5,11.713665943600867,461.0,13.301379815918196,12.5,5
+EU_EEA,Latvia,LVA,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,8.908045977011493,14.879649890590809,457.0,10.448390680403365,8.908045977011493,5
+EU_EEA,Latvia,LVA,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,56.195965417867434,50.0,208.0,54.07744568595612,56.195965417867434,5
+EU_EEA,Latvia,LVA,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.0,455.0,0.0,0.0,5
+EU_EEA,Latvia,LVA,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,24.127906976744185,28.35164835164835,455.0,22.10427481874854,24.127906976744185,5
+EU_EEA,Latvia,LVA,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,20.402298850574713,25.379609544468547,461.0,18.555811358570462,20.402298850574713,5
+EU_EEA,Malta,MLT,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,9.939759036144578,10.336538461538462,416.0,10.032701248559858,9.939759036144578,5
+EU_EEA,Malta,MLT,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,59.63855421686747,62.5,416.0,61.51400326347834,59.63855421686747,5
+EU_EEA,Malta,MLT,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.0,416.0,0.1686862432148603,0.0,5
+EU_EEA,Malta,MLT,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,41.86746987951807,27.884615384615383,416.0,39.44761572963893,41.86746987951807,5
+EU_EEA,Malta,MLT,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,15.36144578313253,11.298076923076923,416.0,15.446570337632815,15.36144578313253,5
+EU_EEA,Netherlands,NLD,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,6.308157099697885,5.190664456064278,7841.0,5.78940050619251,6.308157099697885,5
+EU_EEA,Netherlands,NLD,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,45.95019342359768,40.98800102118969,7834.0,42.13162799371918,45.95019342359768,5
+EU_EEA,Netherlands,NLD,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.012088974854932301,0.08997429305912596,7780.0,0.0,0.012088974854932301,5
+EU_EEA,Netherlands,NLD,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,14.708726130045926,12.946428571428571,7840.0,13.173603912098258,14.708726130045926,5
+EU_EEA,Netherlands,NLD,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,7.315598548972188,7.971938775510204,7840.0,6.119572354566618,7.315598548972188,5
+EU_EEA,Norway,NOR,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,5.747422680412371,5.523474767762993,3983.0,6.538272486133623,5.747422680412371,5
+EU_EEA,Norway,NOR,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,42.29381443298969,36.85664072307306,3983.0,41.291035762486814,42.29381443298969,5
+EU_EEA,Norway,NOR,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.025779840164990978,0.050200803212851405,3984.0,0.0,0.025779840164990978,5
+EU_EEA,Norway,NOR,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,12.870776373484652,10.123394610929237,3971.0,13.002250570672881,12.870776373484652,5
+EU_EEA,Norway,NOR,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,6.754318123227636,5.622489959839357,3984.0,6.119572354566618,6.754318123227636,5
+EU_EEA,Poland,POL,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,15.108207431604736,14.136690647482014,2780.0,15.564060370525828,15.108207431604736,5
+EU_EEA,Poland,POL,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,64.26966292134831,65.5857740585774,956.0,59.450970290984536,64.26966292134831,5
+EU_EEA,Poland,POL,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.12,0.20229265003371544,2966.0,0.25935592596816454,0.12,5
+EU_EEA,Poland,POL,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,34.67082197117257,32.203947368421055,3040.0,33.332247591585286,34.67082197117257,5
+EU_EEA,Poland,POL,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,17.595419847328245,19.563090968373004,3067.0,19.582502968520448,17.595419847328245,5
+EU_EEA,Portugal,PRT,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,12.15450643776824,13.173091930700796,6407.0,11.273854236618547,12.15450643776824,5
+EU_EEA,Portugal,PRT,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,55.06361323155216,54.36434239405707,5923.0,52.81501108264376,55.06361323155216,5
+EU_EEA,Portugal,PRT,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.5347593582887701,0.5337214944201844,6183.0,0.018345708255790443,0.5347593582887701,5
+EU_EEA,Portugal,PRT,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,25.460122699386503,24.331926863572434,6399.0,19.42760160856593,25.460122699386503,5
+EU_EEA,Portugal,PRT,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,14.708382928073457,17.195064813368734,6403.0,13.10222468364834,14.708382928073457,5
+EU_EEA,Romania,ROU,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,12.788906009244993,12.716763005780347,865.0,12.399075963209178,12.788906009244993,5
+EU_EEA,Romania,ROU,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,62.17712177121771,61.71052631578947,760.0,61.686964826890865,62.17712177121771,5
+EU_EEA,Romania,ROU,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,1.8274111675126903,985.0,1.4153971357479151,0.0,5
+EU_EEA,Romania,ROU,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,29.102167182662537,25.408163265306122,980.0,27.216692232995896,29.102167182662537,5
+EU_EEA,Romania,ROU,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,20.18348623853211,19.09090909090909,990.0,19.579772194945832,20.18348623853211,5
+EU_EEA,Slovakia,SVK,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,21.568627450980394,13.81294964028777,695.0,14.981659673473914,21.568627450980394,5
+EU_EEA,Slovakia,SVK,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,61.73733195449845,58.47953216374269,684.0,57.84526020408558,61.73733195449845,5
+EU_EEA,Slovakia,SVK,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.14367816091954022,696.0,0.0,0.0,5
+EU_EEA,Slovakia,SVK,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,42.10526315789474,31.16883116883117,693.0,37.3526406312284,42.10526315789474,5
+EU_EEA,Slovakia,SVK,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,30.11305241521069,21.551724137931036,696.0,24.72152680415521,30.11305241521069,5
+EU_EEA,Slovenia,SVN,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,9.412470023980815,6.955460646735815,1639.0,9.028267000721117,9.412470023980815,5
+EU_EEA,Slovenia,SVN,2018,2023,Aminopenicillins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,53.47721822541966,48.993288590604024,1639.0,53.30837639563306,53.47721822541966,5
+EU_EEA,Slovenia,SVN,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.0,0.06101281269066504,1639.0,0.0,0.0,5
+EU_EEA,Slovenia,SVN,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,22.781774580335732,15.924344112263576,1639.0,17.949232388284738,22.781774580335732,5
+EU_EEA,Slovenia,SVN,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,11.33093525179856,8.663819402074436,1639.0,10.13639832593113,11.33093525179856,5
+EU_EEA,Sweden,SWE,2018,2023,Aminoglycosides,EARS-Net mixed/not reported,Not reported in Atlas aggregate,7.735217552993678,6.160164271047228,10714.0,7.223696420010501,7.735217552993678,5
+EU_EEA,Sweden,SWE,2018,2023,Carbapenems,EARS-Net mixed/not reported,Not reported in Atlas aggregate,0.01855976243504083,0.037334328915437746,10714.0,0.0,0.01855976243504083,5
+EU_EEA,Sweden,SWE,2018,2023,Fluoroquinolones,EARS-Net mixed/not reported,Not reported in Atlas aggregate,18.055039047973224,14.746112047967022,10674.0,16.173667010116787,18.055039047973224,5
+EU_EEA,Sweden,SWE,2018,2023,Third-generation cephalosporins,EARS-Net mixed/not reported,Not reported in Atlas aggregate,8.330241187384045,7.925407925407925,10725.0,8.182982507174804,8.330241187384045,5

@@ -1,0 +1,10 @@
+metric,value
+rows,3192.0
+countries,30.0
+years,24.0
+antibiotics,5.0
+minimum_year,2000.0
+maximum_year,2023.0
+median_tested,1197.0
+breakpoint_version_changes,144.0
+post_2020_non_eucast_rows,0.0

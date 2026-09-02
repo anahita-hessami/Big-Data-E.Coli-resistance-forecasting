@@ -1,0 +1,16 @@
+Horizon,Model,BestCV_RMSE,BestParameters,ValidationFolds
+1,Ridge,2.1370741590139852,"{""model__alpha"": 10.0}",5
+1,Gradient Boosting,2.251379777070421,"{""model__learning_rate"": 0.05, ""model__max_depth"": 2, ""model__min_samples_leaf"": 3, ""model__n_estimators"": 100}",5
+1,Random Forest,2.2083114392811596,"{""model__max_depth"": null, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 5, ""model__n_estimators"": 150}",5
+1,Extra Trees,2.1706180646916584,"{""model__max_depth"": null, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 5, ""model__n_estimators"": 150}",5
+1,ANN,3.4705122801474872,"{""model__alpha"": 0.01, ""model__hidden_layer_sizes"": [32]}",5
+3,Ridge,2.9418961058050095,"{""model__alpha"": 100.0}",5
+3,Gradient Boosting,2.741824357370569,"{""model__learning_rate"": 0.05, ""model__max_depth"": 3, ""model__min_samples_leaf"": 3, ""model__n_estimators"": 200}",5
+3,Random Forest,2.728091669290047,"{""model__max_depth"": null, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 150}",5
+3,Extra Trees,2.4197463560854127,"{""model__max_depth"": null, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 150}",5
+3,ANN,3.90458825185369,"{""model__alpha"": 0.01, ""model__hidden_layer_sizes"": [32]}",5
+5,Ridge,2.8895307977669265,"{""model__alpha"": 10.0}",3
+5,Gradient Boosting,2.787898117459078,"{""model__learning_rate"": 0.05, ""model__max_depth"": 3, ""model__min_samples_leaf"": 3, ""model__n_estimators"": 200}",3
+5,Random Forest,2.9599951740325814,"{""model__max_depth"": null, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 150}",3
+5,Extra Trees,2.462552486234209,"{""model__max_depth"": null, ""model__max_features"": 0.7, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 150}",3
+5,ANN,3.336979520438691,"{""model__alpha"": 0.01, ""model__hidden_layer_sizes"": [32]}",3

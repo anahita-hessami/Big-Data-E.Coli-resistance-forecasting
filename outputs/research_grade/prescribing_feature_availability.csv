@@ -1,0 +1,6 @@
+Feature,AvailableRows,TotalRows,AvailabilityPct,FirstAvailableYear,LastAvailableYear,ModelEligibleNow,Decision
+ddd_per_1000_per_day,1770,1770,100.0,2013.0,2022.0,True,Eligible subject to temporal validation
+access_pct,0,1770,0.0,,,False,Do not impute or fabricate; obtain an official export
+broad_narrow_ratio,0,1770,0.0,,,False,Do not impute or fabricate; obtain an official export
+oral_parenteral_ratio,0,1770,0.0,,,False,Do not impute or fabricate; obtain an official export
+reserve_pct,1692,1770,95.59322033898306,2013.0,2022.0,True,Eligible subject to temporal validation
