@@ -300,6 +300,26 @@ Two versions are included under `notebooks/`:
   still ends in 2022. New years must be rebuilt from coherent official exports rather
   than appended from incompatible tables.
 
+## Health-economic extension
+
+`economic_model/` and `R/` extend the forecast into a decision question: is
+activating enhanced stewardship using the 3-year resistance forecast
+economically preferable to usual care or to a rule based on the latest
+observed resistance alone? The cost-effectiveness analysis (CEA) and the
+2026–2030 budget-impact analysis (BIA) are kept as separate models with
+separate parameter files.
+
+R is the authoritative stochastic engine (50,000-draw PSA with Monte Carlo
+confidence intervals); a Python implementation (`src/economic_extension.py`)
+is an independent formula check, not the primary result. Start with
+`economic_model/README.md` for how to run both, `VERSION_9_CHANGELOG.md` for
+what changed and why, and `docs/ECONOMIC_VALIDATION_V9.md` for the full
+scientific interpretation, assumptions, and remaining limitations.
+
+The intervention cost, baseline mortality, QALY loss, and BIA uptake inputs
+are still illustrative pending jurisdiction-specific evidence — this is a
+research scenario, not a policy recommendation.
+
 ## License
 
 Released under the [MIT License](LICENSE).

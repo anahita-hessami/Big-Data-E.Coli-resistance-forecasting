@@ -1,0 +1,8 @@
+parameter,base,unit,source_type,notes
+uptake_year_1,0.35,proportion,illustrative_assumption,Eligible episodes receiving the defined bundle in 2026.
+uptake_year_5,0.80,proportion,illustrative_assumption,Eligible episodes receiving the defined bundle in 2030.
+annual_bsi_incidence_growth,0.00,annual_proportion,illustrative_assumption,Annual change in eligible episodes after 2026.
+one_time_setup_cost_per_country,150000,EUR_2026,illustrative_assumption,First-year setup cost per activated country.
+annual_operating_cost_per_country,75000,EUR_2026,illustrative_assumption,Annual fixed programme cost per activated country.
+variable_cost_per_treated_episode,35,EUR_2026,illustrative_assumption,Incremental delivery cost per treated episode.
+price_growth,0.00,annual_proportion,analysis_setting,Constant 2026 EUR; BIA is undiscounted.

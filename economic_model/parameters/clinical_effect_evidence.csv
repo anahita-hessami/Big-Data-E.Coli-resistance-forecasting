@@ -1,0 +1,3 @@
+endpoint,estimate,lower_95,upper_95,effect_measure,intervention,comparator,source,use_in_model,notes
+All-cause mortality,0.78,0.63,0.96,odds_ratio,Molecular rapid diagnostic testing plus active antimicrobial stewardship,Conventional blood culture plus active antimicrobial stewardship,https://pmc.ncbi.nlm.nih.gov/articles/PMC11327801/,yes,Peri et al. 2024 network meta-analysis; sampled lognormally.
+Length of stay,,,,days,Molecular rapid diagnostic testing plus active antimicrobial stewardship,Conventional blood culture plus active antimicrobial stewardship,https://pmc.ncbi.nlm.nih.gov/articles/PMC11327801/,no,No statistically supported effect is monetised in the base case.

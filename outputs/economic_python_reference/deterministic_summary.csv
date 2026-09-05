@@ -1,0 +1,9 @@
+Metric,Value
+Countries with valid coverage-adjusted denominators,28.0
+Countries triggered by persistence,14.0
+Countries triggered by ML forecast,12.0
+Projected total E. coli BSI episodes,278711.878344621
+Forecast resistant episodes,38635.48148067045
+Incremental cost: ML vs persistence (EUR),-1710571.0041168232
+QALYs gained: ML vs persistence,-1346.133479560669
+Incremental NMB: ML vs persistence (EUR),-38673433.382703245

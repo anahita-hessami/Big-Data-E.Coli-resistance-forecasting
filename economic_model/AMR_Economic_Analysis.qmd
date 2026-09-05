@@ -1,0 +1,22 @@
+---
+title: "Forecast-guided stewardship cost-effectiveness analysis"
+format: html
+execute: {echo: true, warning: false}
+---
+
+This is the one-year CEA. It reports costs, QALYs and net monetary benefit for the
+2026 forecast target. It does not claim to be a formal budget-impact analysis.
+
+```{r}
+source("R/run_economic_analysis.R")
+summary <- read.csv("outputs/economic_r/psa_summary.csv")
+correlation <- read.csv("outputs/economic_r/correlation_sensitivity.csv")
+summary
+correlation
+```
+
+The intervention is molecular rapid diagnostic testing from a positive blood
+culture plus active, real-time stewardship review. The published mortality odds
+ratio is sampled lognormally. All other evidence classifications are visible in
+`parameters/economic_parameters.csv`. Results are illustrative, not a policy
+recommendation.

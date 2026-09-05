@@ -1,0 +1,20 @@
+---
+title: "Five-year budget impact of forecast-guided stewardship"
+format: html
+execute: {echo: true, warning: false}
+---
+
+This distinct BIA estimates annual payer expenditure from 2026 to 2030 in constant
+2026 euros. It contains no QALY, ICER or willingness-to-pay decision rule.
+
+```{r}
+source("R/run_budget_impact_analysis.R")
+annual <- read.csv("outputs/budget_impact_r/annual_budget_impact.csv")
+summary <- read.csv("outputs/budget_impact_r/five_year_budget_summary.csv")
+annual
+summary
+```
+
+Uptake, setup, operating and variable-cost assumptions are explicit in
+`parameters/bia_parameters.csv` and remain illustrative pending jurisdiction-specific
+costing.

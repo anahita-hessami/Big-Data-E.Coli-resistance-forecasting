@@ -1,0 +1,17 @@
+parameter,base,low,high,distribution,unit,source_type,source_url,notes
+resistance_trigger_pct,15,10,20,triangular,percentage_points,illustrative_assumption,,Forecast resistance threshold activating the programme.
+increase_trigger_pp,2,1,4,triangular,percentage_points,illustrative_assumption,,Forecast increase over latest resistance activating the programme.
+minimum_reported_tested,100,100,100,fixed,reported_tests,decision_safeguard,,Minimum current surveillance volume for either activation rule.
+future_bsi_incidence_multiplier,1.00,0.80,1.20,triangular,multiplier,illustrative_assumption,,Change in E. coli BSI incidence from 2023 to 2026.
+coverage_cv_no_caution,0.10,0.10,0.10,fixed,coefficient_of_variation,structured_sensitivity_assumption,,Base lognormal measurement uncertainty in the coverage-adjusted national incidence.
+coverage_cv_medium_representation,0.20,0.20,0.20,fixed,coefficient_of_variation,structured_sensitivity_assumption,,Additional uncertainty where any ECDC representativeness dimension is Medium.
+coverage_cv_low_representation,0.35,0.35,0.35,fixed,coefficient_of_variation,structured_sensitivity_assumption,,Additional uncertainty where any ECDC representativeness dimension is Low.
+cross_country_forecast_correlation,0.25,0.25,0.25,fixed,correlation,structured_sensitivity_assumption,,Base common European forecast-error correlation; scenarios use 0 0.25 and 0.50.
+baseline_bsi_mortality_probability,0.15,0.10,0.25,triangular,probability,illustrative_assumption,,Mortality under conventional blood culture plus existing stewardship.
+intervention_mortality_odds_ratio,0.78,0.63,0.96,lognormal_odds_ratio,odds_ratio,literature_meta_analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC11327801/,Molecular RDT plus active ASP versus conventional blood culture plus ASP; Peri et al. 2024.
+programme_fixed_cost_per_country,150000,50000,300000,triangular,EUR_2026,illustrative_assumption,,One-year implementation and stewardship-team cost per activated country.
+programme_variable_cost_per_bsi_episode,35,15,75,triangular,EUR_2026,illustrative_assumption,,Incremental diagnostic/stewardship cost per estimated BSI episode.
+qaly_loss_per_bsi_death,8,4,12,triangular,QALY,illustrative_assumption,,Discounted lifetime QALYs lost per BSI death.
+willingness_to_pay_per_qaly,30000,20000,50000,triangular,EUR_2026_per_QALY,illustrative_assumption,,Scenario decision threshold.
+psa_simulations,50000,50000,50000,fixed,draws,analysis_setting,,Authoritative R probabilistic sensitivity-analysis draws.
+random_seed,20260905,20260905,20260905,fixed,integer,analysis_setting,,Fixed reproducibility seed.

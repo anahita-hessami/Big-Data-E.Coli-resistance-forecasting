@@ -34,3 +34,7 @@ Thumbs.db
 #   python -m src.run_iterative_optimization
 #   (then run the Complete_ML notebook, which trains and saves outputs/notebook_ml/*.joblib)
 *.joblib
+
+# Raw 50,000-draw PSA observations are large and fully regenerable via
+# R/run_economic_analysis.R from the committed parameters and seed.
+outputs/economic_r/psa_results.csv

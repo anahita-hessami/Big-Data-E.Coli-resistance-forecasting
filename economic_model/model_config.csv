@@ -1,0 +1,11 @@
+setting,value,notes
+forecast_horizon_years,3,Uses the best-supported fully nested horizon.
+forecast_target_year,2026,Three years after the 2023 forecast origin.
+antibiotic,Third-generation cephalosporins,EARS-Net aggregate antibiotic group.
+currency,EUR_2026,Constant-price scenario currency.
+perspective,health_system,Direct health-system costs only.
+cea_time_horizon,target_year_only,CEA costs and outcomes are evaluated for 2026.
+surveillance_reference_year,2023,ECDC coverage and EARS-Net case-count reference year.
+population_source,eurostat_europop2023_baseline,EUROPOP2023 baseline 2026 total population (proj_23np).
+bia_start_year,2026,First budget-impact year.
+bia_end_year,2030,Last budget-impact year.
