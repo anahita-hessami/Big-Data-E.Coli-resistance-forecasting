@@ -305,20 +305,42 @@ Two versions are included under `notebooks/`:
 `economic_model/` and `R/` extend the forecast into a decision question: is
 activating enhanced stewardship using the 3-year resistance forecast
 economically preferable to usual care or to a rule based on the latest
-observed resistance alone? The cost-effectiveness analysis (CEA) and the
-2026–2030 budget-impact analysis (BIA) are kept as separate models with
-separate parameter files.
+observed resistance alone?
 
-R is the authoritative stochastic engine (50,000-draw PSA with Monte Carlo
-confidence intervals); a Python implementation (`src/economic_extension.py`)
-is an independent formula check, not the primary result. Start with
-`economic_model/README.md` for how to run both, `VERSION_9_CHANGELOG.md` for
-what changed and why, and `docs/ECONOMIC_VALIDATION_V9.md` for the full
-scientific interpretation, assumptions, and remaining limitations.
+![Headline economic results](outputs/economic_r/figures/10_headline_summary.png)
 
-The intervention cost, baseline mortality, QALY loss, and BIA uptake inputs
-are still illustrative pending jurisdiction-specific evidence — this is a
-research scenario, not a policy recommendation.
+**Vs. usual care**, ML forecast-guided activation is clearly cost-effective:
+ICER of ~€1,185/QALY, with a 98.7% probability of being cost-effective at a
+€30,000/QALY threshold, holding across the full range of realistic
+willingness-to-pay values (see the cost-effectiveness acceptability curve,
+`outputs/economic_r/figures/07_ceac.png`).
+
+**Vs. a simpler persistence-guided rule** (activate using only the latest
+observed resistance, no forecasting), the picture is more honest: the ML
+approach is cheaper but has *fewer* expected QALYs, and its probability of
+being cost-effective never exceeds ~14%, regardless of the willingness-to-pay
+threshold (`outputs/economic_r/figures/09_ce_plane_annotated.png`). A more
+statistically accurate forecast does not automatically translate into a
+better economic decision rule than a simple heuristic — that gap, not just
+the forecast's accuracy, is the result worth taking seriously.
+
+R is the authoritative stochastic engine: `R/economic_model.R` (deterministic
+CEA + 50,000-draw PSA), `R/ceac_analysis.R` (ICER + cost-effectiveness
+acceptability curve), and `R/summary_visuals.R` (uncertainty distributions,
+annotated CE plane, headline summary panel). Run in order:
+
+\`\`\`bash
+Rscript R/run_economic_analysis.R .
+Rscript R/ceac_analysis.R .
+Rscript R/summary_visuals.R .
+\`\`\`
+
+Full assumptions, parameter sources, and limitations remain in
+`economic_model/README.md`, `docs/ECONOMIC_VALIDATION_V9.md`, and
+`VERSION_9_CHANGELOG.md`. This is a research scenario, not a policy
+recommendation — intervention cost, baseline mortality, and QALY inputs are
+still illustrative pending jurisdiction-specific evidence.
+
 
 ## License
 
