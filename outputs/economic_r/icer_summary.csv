@@ -1,0 +1,3 @@
+"Comparison","MeanIncrementalCostEUR","MeanIncrementalQALY","ICEREURPerQALY","Verdict"
+"ML forecast-guided vs usual care",6014030.46676068,5076.24564037534,1184.73984373932,"Trade-off: compare to willingness-to-pay threshold"
+"ML forecast-guided vs persistence-guided",-818041.884247211,-547.491684079625,1494.16312253656,"Trade-off: compare to willingness-to-pay threshold"
